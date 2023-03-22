@@ -1,7 +1,8 @@
 import React from 'react'
 import CTA from './CTA';
+import HeaderSocials from './HeaderSocials';
+import ME from '/assets/images/me.png'
 import './header.css'
-import ME from '/assets/images/me.jpg'
 
 export default function Header() {
   return (
@@ -11,7 +12,7 @@ export default function Header() {
         <h1>Siavash Shahidi</h1>
         <h5 className='text-light'>Front-End Developer</h5>
         <CTA />
-
+        <HeaderSocials />
         <div className='me'>
           <img src={ME} alt="me" />
         </div>

@@ -61,9 +61,9 @@ export default function Portfolio() {
             <h2>Portfolio</h2>
 
             <div className="container portfolio__container">
-                {data.map(({ id, image, title, github, demo }) => {
+                {data.map(({ id, image, title, github, demo },index) => {
                     return (
-                        <article className="portfolio__item" key={id}>
+                        <article className="portfolio__item" key={index}>
                             <div className="portfolio__item-image">
                                 <img src={image} alt={title} />
                             </div>

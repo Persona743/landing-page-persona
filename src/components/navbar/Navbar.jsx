@@ -1,10 +1,12 @@
 import React, { useState } from 'react';
-import './navbar.css';
+
 import { AiOutlineHome } from 'react-icons/ai';
 import { AiOutlineUser } from 'react-icons/ai';
 import { BiBook } from 'react-icons/bi';
 import { RiServiceLine } from 'react-icons/ri';
 import { BiMessageSquareDetail } from 'react-icons/bi';
+
+import './navbar.css';
 
 export default function Navbar() {
     const [activeNav, setActiveNav] = useState('#');

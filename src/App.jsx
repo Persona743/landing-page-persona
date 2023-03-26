@@ -8,12 +8,15 @@ import {
     Navbar,
     Portfolio,
     Services,
-    Testimonial,
+    Testimonial
 } from './components';
+
+import AnimatedCursor from './animation/AnimatedCursor';
 
 export default function App() {
     return (
         <>
+            {/* <AnimatedCursor /> */}
             <Header />
             <Navbar />
             <About />

@@ -43,17 +43,15 @@
 /* media queries */
 @media screen and (max-width:1024px) {
     .experience__container {
-        grid-template-columns: 1fr;
+        grid-template-columns: 1fr 1fr;
+        gap: 0;
+        width: 100%;
     }
 
     .experience__container>div {
         width: 80%;
-        padding: 2rem;
         margin: 0 auto;
-    }
-
-    .experience__content {
-        padding: 1rem;
+        font-size: 14px;
     }
 }
 
@@ -63,7 +61,6 @@
     }
 
     .experience__container > div{
-        width: 100%;
-        padding: 2rem 1rem;
+        padding: 1rem 1rem;
     }
 }

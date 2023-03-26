@@ -35,7 +35,7 @@ const data = [
 
 export default function Testimonial() {
     return (
-        <section id="testimonial">
+        <section id="testimonials">
             <h5>Review from clients</h5>
             <h2>Testimonial</h2>
 

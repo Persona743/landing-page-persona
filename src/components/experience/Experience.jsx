@@ -69,7 +69,7 @@ export default function Experience() {
                     </div>
                 </div>
                 {/* ============================== */}
-                <div className="experience__backend">
+                <div className="experience__other">
                     <h3>Other Skills</h3>
                     <div className="experience__content">
                         <article className="experience__details">

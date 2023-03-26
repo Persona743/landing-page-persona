@@ -54,12 +54,20 @@
 
 @media screen and (max-width:1024px) {
     .services__container{
-        grid-template-columns: 1fr 1fr;
+        grid-template-columns: 1fr 1fr 1fr;
         gap: 2rem;
     }
 
+    .service__list-icon{
+        font-size: 25px;
+    }
+
+    .service__list p{
+        font-size: 12px;
+    }
+
     .service{
-        height: auto;
+        height: 78vh;
     }
 }
 

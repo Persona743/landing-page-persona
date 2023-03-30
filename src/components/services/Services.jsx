@@ -19,52 +19,31 @@ export default function Services() {
                     <ul className="service__list">
                         <li>
                             <BiCheck className="service__list-icon" />
-                            <p>
-                                Lorem ipsum dolor sit amet, consectetur
-                                adipiscing elit.
-                            </p>
+                            <p>Custom Web Design.</p>
                         </li>
                         <li>
                             <BiCheck className="service__list-icon" />
-                            <p>
-                                Lorem ipsum dolor sit amet, consectetur
-                                adipiscing elit.
-                            </p>
+                            <p>Graphics Design.</p>
                         </li>
                         <li>
                             <BiCheck className="service__list-icon" />
-                            <p>
-                                Lorem ipsum dolor sit amet, consectetur
-                                adipiscing elit.
-                            </p>
+                            <p>Wireframing.</p>
                         </li>
                         <li>
                             <BiCheck className="service__list-icon" />
-                            <p>
-                                Lorem ipsum dolor sit amet, consectetur
-                                adipiscing elit.
-                            </p>
+                            <p>Mobile App Design.</p>
                         </li>
                         <li>
                             <BiCheck className="service__list-icon" />
-                            <p>
-                                Lorem ipsum dolor sit amet, consectetur
-                                adipiscing elit.
-                            </p>
+                            <p>Wearables App Design.</p>
                         </li>
                         <li>
                             <BiCheck className="service__list-icon" />
-                            <p>
-                                Lorem ipsum dolor sit amet, consectetur
-                                adipiscing elit.
-                            </p>
+                            <p>Product Design.</p>
                         </li>
                         <li>
                             <BiCheck className="service__list-icon" />
-                            <p>
-                                Lorem ipsum dolor sit amet, consectetur
-                                adipiscing elit.
-                            </p>
+                            <p>Figma design.</p>
                         </li>
                     </ul>
                 </article>
@@ -77,59 +56,27 @@ export default function Services() {
                     <ul className="service__list">
                         <li>
                             <BiCheck className="service__list-icon" />
-                            <p>
-                                Lorem ipsum dolor sit amet, consectetur
-                                adipiscing elit.
-                            </p>
+                            <p>Creating a site's architecture.</p>
                         </li>
                         <li>
                             <BiCheck className="service__list-icon" />
-                            <p>
-                                Lorem ipsum dolor sit amet, consectetur
-                                adipiscing elit.
-                            </p>
+                            <p>Support and maintenance.</p>
                         </li>
                         <li>
                             <BiCheck className="service__list-icon" />
-                            <p>
-                                Lorem ipsum dolor sit amet, consectetur
-                                adipiscing elit.
-                            </p>
+                            <p>Web hosting.</p>
                         </li>
                         <li>
                             <BiCheck className="service__list-icon" />
-                            <p>
-                                Lorem ipsum dolor sit amet, consectetur
-                                adipiscing elit.
-                            </p>
+                            <p>Web programming.</p>
                         </li>
                         <li>
                             <BiCheck className="service__list-icon" />
-                            <p>
-                                Lorem ipsum dolor sit amet, consectetur
-                                adipiscing elit.
-                            </p>
+                            <p>Web optimization.</p>
                         </li>
                         <li>
                             <BiCheck className="service__list-icon" />
-                            <p>
-                                Lorem ipsum dolor sit amet, consectetur
-                                adipiscing elit.
-                            </p>
-                        </li>
-                        <li>
-                            <BiCheck className="service__list-icon" />
-                            <p>
-                                Lorem ipsum dolor sit amet, consectetur
-                                adipiscing elit.
-                            </p>
-                        </li>
-                        <li>
-                            <BiCheck className="service__list-icon" />
-                            <p>
-                                Lorem ipsum dolor sit amet, consectetur
-                                adipiscing elit.
-                            </p>
+                            <p>Check for bugs.</p>
                         </li>
                     </ul>
                 </article>
@@ -142,52 +89,31 @@ export default function Services() {
                     <ul className="service__list">
                         <li>
                             <BiCheck className="service__list-icon" />
-                            <p>
-                                Lorem ipsum dolor sit amet, consectetur
-                                adipiscing elit.
-                            </p>
+                            <p>Video content.</p>
                         </li>
                         <li>
                             <BiCheck className="service__list-icon" />
-                            <p>
-                                Lorem ipsum dolor sit amet, consectetur
-                                adipiscing elit.
-                            </p>
+                            <p>Blog posts.</p>
                         </li>
                         <li>
                             <BiCheck className="service__list-icon" />
-                            <p>
-                                Lorem ipsum dolor sit amet, consectetur
-                                adipiscing elit.
-                            </p>
+                            <p>Interactive content.</p>
                         </li>
                         <li>
                             <BiCheck className="service__list-icon" />
-                            <p>
-                                Lorem ipsum dolor sit amet, consectetur
-                                adipiscing elit.
-                            </p>
+                            <p>Email Marketing.</p>
                         </li>
                         <li>
                             <BiCheck className="service__list-icon" />
-                            <p>
-                                Lorem ipsum dolor sit amet, consectetur
-                                adipiscing elit.
-                            </p>
+                            <p>Ebooks.</p>
                         </li>
                         <li>
                             <BiCheck className="service__list-icon" />
-                            <p>
-                                Lorem ipsum dolor sit amet, consectetur
-                                adipiscing elit.
-                            </p>
+                            <p>Podcasts.</p>
                         </li>
                         <li>
                             <BiCheck className="service__list-icon" />
-                            <p>
-                                Lorem ipsum dolor sit amet, consectetur
-                                adipiscing elit.
-                            </p>
+                            <p>White Papers.</p>
                         </li>
                     </ul>
                 </article>

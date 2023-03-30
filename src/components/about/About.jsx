@@ -42,11 +42,12 @@ export default function About() {
                     </div>
 
                     <p>
-                        Lorem ipsum, dolor sit amet consectetur adipisicing
-                        elit. Aliquid consequuntur ducimus corporis
-                        exercitationem hic quam quidem a maiores eum tempora
-                        praesentium, quasi repudiandae omnis fuga perferendis
-                        nemo facilis. Reprehenderit, pariatur!
+                        I started to learn coding since I was recall and I
+                        started to love it 3 years ago. After learning basics, I
+                        tried to go next level and improve my skills on
+                        libraries and apis. I always find myself in challenging
+                        stuff and try to solve them. My name is Siavash Shahidi
+                        and I'm a frontend developer.
                     </p>
                     <a href="#contact" className="btn btn-primary">
                         Let's Talk

@@ -65,7 +65,8 @@ header {
     .container {
         height: 68vh;
     }
-    .me{
+
+    .me {
         width: 16rem;
         height: 22rem;
     }
@@ -76,15 +77,31 @@ header {
         height: 100vh;
     }
 
+    header {
+        height: 75vh;
+        margin-top: -5rem;
+    }
+
     .header__socials,
     .scroll__down {
         display: none;
     }
 
     .me {
-        width: 14rem;
-        height: 20rem;
-        left: calc(50% - 7rem);
+        width: 10rem;
+        height: 14rem;
+        left: calc(50% - 4rem);
     }
 
+    h1 {
+        font-size: 1.75rem;
+    }
+
+    .cta {
+        margin-top: 1rem;
+    }
+
+    .btn {
+        padding: 0.4rem 0.7rem;
+    }
 }

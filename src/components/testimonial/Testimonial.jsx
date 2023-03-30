@@ -19,17 +19,17 @@ const data = [
     {
         avatar: AVATAR1,
         name: 'Donya Kharazi',
-        review: 'Quis culpa minim est reprehenderit. Labore veniam elit anim esse officia enim sunt occaecat sunt et cupidatat duis aute esse. Reprehenderit minim irure sint ex aliquip velit non id cillum. Deserunt do nostrud non duis mollit id sit.',
+        review: 'Really well balanced design and a self dedicated for the costumers. I was overwhelmed by the aesthetic side of the portfolios and I am looking forward to work with him again.',
     },
     {
         avatar: AVATAR2,
         name: 'Dave Sloute',
-        review: 'Quis culpa minim est reprehenderit. Labore veniam elit anim esse officia enim sunt occaecat sunt et cupidatat duis aute esse. Reprehenderit minim irure sint ex aliquip velit non id cillum. Deserunt do nostrud non duis mollit id sit.',
+        review: 'Awsome! simply awsome works. I definitely suggest persona to whomever that looking for a great web application and want it work for all devices.',
     },
     {
         avatar: AVATAR3,
         name: 'Steve Rjavini',
-        review: 'Quis culpa minim est reprehenderit. Labore veniam elit anim esse officia enim sunt occaecat sunt et cupidatat duis aute esse. Reprehenderit minim irure sint ex aliquip velit non id cillum. Deserunt do nostrud non duis mollit id sit.',
+        review: 'I changed my website multiple times and I was really frustrated with it. when I see persona projects, I just went straghtly to him and now I am very happy to see everything is working smoothly.',
     },
 ];
 

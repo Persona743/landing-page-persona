@@ -69,8 +69,17 @@ textarea {
 }
 
 @media screen and (max-width:600px) {
+    #contact {
+        margin-top: -10rem;
+    }
+
     .container.contact__container {
         grid-template-columns: 1fr;
         width: var(--container-width-sm);
+    }
+
+    input,
+    textarea {
+        padding: 0.5rem;
     }
 }

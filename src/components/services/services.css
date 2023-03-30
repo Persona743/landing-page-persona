@@ -75,7 +75,8 @@
     .services__container {
         grid-template-columns: 1fr 1fr 1fr;
         gap: 1rem;
-        width: 100%;
+        width: 565px;
+        margin-bottom: -5rem;
     }
 
     .service__head h3{
